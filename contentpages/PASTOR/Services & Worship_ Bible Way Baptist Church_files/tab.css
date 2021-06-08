@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Bible Way Baptist Church</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Bible Way Baptist Church, Philadelphia, PA : Where Jesus is the center of it All! Rev. Dr. Damone B. Jones, Sr., Senior Pastor." />
+    <meta name="keywords" content="Bible Way Baptist Church,  Bible Way Philadelphia, Bible Way BC, Philadelphia Baptist Church, Dr. Damone Jones Pastor" />
+    <meta name="author" content="System Savvy, Inc." />
+	
+    <link rel="icon" href="img/favicon.ico" />
+
+    <!-- LOAD CSS FILES -->
+    <link href="css/main_renew.css" rel="stylesheet" type="text/css">
+	
+	<!-- Revolution Slider -->
+    <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css">
+	<link rel="stylesheet" type="text/css" href="rs-plugin/css/layers.css">
+    <link rel="stylesheet" type="text/css" href="rs-plugin/css/navigation.css">
+	
+</head>
+
+<body>
+	<div id="preloader"></div>
+    <div id="wrapper">
+        <!-- header begin -->
+        <header>
+            <div class="container">
+    <span id="menu-btn"></span>
+	<div class="row">
+		<div class="col-md-2">
+
+			<!-- logo begin -->
+			<div id="logo">
+				<div class="inner">
+					<a href="index.php">
+						<img src="img/bw_logo_wh.png" alt="" class="logo-1">
+						<img src="img/bw_logo_dark.png" alt="" class="logo-2">
+					</a>
+
+				</div>
+			</div>
+			<!-- logo close -->
+
+		</div>
+
+		<div class="col-md-10">
+
+			<!-- mainmenu begin -->
+			<div id="mainmenu-container" style="padding-left:25px;">
+				<ul id="mainmenu">
+					<li><a href="index.php">Home</a></li>
+					<li><a href="#">About</a>
+						<ul>
+							<li><a href="about_us.php">About Us</a></li>
+							<li><a href="history.php">Bible Way History</a></li>
+							<li><a href="bio_pastor.php">Our Pastor</a></li>
+							<li><a href="bio_first_lady.php">Our First Lady</a></li>
+						</ul>
+					</li>
+					<li><a href="https://livestream.com/bwbc" target="new">LIVE</a></li>
+					<li><a href="services.php">Worship</a></li>
+					<li><a href="ministries.php">Ministries</a></li>
+					<li><a href="news.php">News & Events</a></li>
+					<li><a href="https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=wWsk24ZWJSTZKsGd1RMKlg0BDvsSG3VIWQCPJNNxD8upkiY7JlDavDsozUE7KG0nFx2NSo8LdUKGuGuF396vbTj0O-mNrwjM8AQzRJu-69aXHubq5Z7ap5JVmPErc4ZeYHCKCZhESjGNQmZ5B-6dxwkPR8neWd2pKy4SvVOOrOs=&ver=3" target="new">Giving</a>
+					</li>
+					<li><a href="contact.php">Contact</a></li>
+				</ul>
+			</div>
+			<!-- mainmenu close -->			
+			
+			<!-- social icons -->
+			<div class="social clearfix">
+				<a href="https://www.facebook.com/biblewayphilly/" target="new"><i class="fa fa-facebook"></i></a>
+				<a href="https://www.instagram.com/biblewayphilly/" target="new"><i class="fa fa-instagram"></i></a>
+				<a href="https://www.youtube.com/BibleWayBaptistChurch" target="new"><i class="fa fa-youtube"></i></a>
+			</div>
+			<!-- social icons close -->
+
+		</div>
+	</div>
+</div>        </header>
+        <!-- header close -->
+
+        <!-- slider -->
+        <div id="slider">
+            <!-- revolution slider begin -->
+            <div class="fullwidthbanner-container">
+                <div id="revolution-slider" class="fullscreenbanner" data-version="5.1.6" style="display:none">
+                    <ul>
+					<li data-transition="fade" data-slotamount="10"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-rotate="0"  data-saveperformance="off" ><!--  BACKGROUND IMAGE 1--><img src="img/bg_bw2.jpg"  alt="" class="rev-slidebg" 
+							data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-no-retina><div class="tp-caption border-v lft"data-x="['center','center','left','left']" data-hoffset="['0','0','-100','-100']" data-y="['center','center','top','top']" data-voffset="['0','0','0','0']" data-speed="100" data-start="400" data-easing="easeInOutCubic" data-endspeed="300"></div><div class="tp-caption tp-resizeme sfb skewtobottom" data-x="['center','center','center','center']" data-hoffset="['360','310','0','0']" data-y="['top','top','top','top']" data-voffset="['120','110','30','40']" data-speed="500" data-start="1000" data-easing="Power3.easeIn" data-endeasing="Power1.easeOut"  > <img alt="" src="images/logo/Copy_of_Copy_of_NEWServiesFlyer_-_Made_with_PosterMyWall_(2).jpg" width="650" height="414" data-ww="['650','600','450','350']" data-hh="['414','380','286','222']" data-no-retina> </div></li><li data-transition="fade" data-slotamount="10"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-rotate="0"  data-saveperformance="off" ><!--  BACKGROUND IMAGE 1--><img src="img/bg_bw2.jpg"  alt="" class="rev-slidebg" 
+							data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-no-retina><div class="tp-caption border-v lft"data-x="['center','center','left','left']" data-hoffset="['0','0','-100','-100']" data-y="['center','center','top','top']" data-voffset="['0','0','0','0']" data-speed="100" data-start="400" data-easing="easeInOutCubic" data-endspeed="300"></div><div class="tp-caption tp-resizeme sfb skewtobottom" data-x="['center','center','center','center']" data-hoffset="['360','310','0','0']" data-y="['top','top','top','top']" data-voffset="['120','110','30','40']" data-speed="500" data-start="1000" data-easing="Power3.easeIn" data-endeasing="Power1.easeOut"  > <img alt="" src="https://systemsavvy.net/~bibleway/images/logo/youthday2021.jpeg" width="650" height="414" data-ww="['650','600','450','350']" data-hh="['414','380','286','222']" data-no-retina> </div></li><li data-transition="fade" data-slotamount="10"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-rotate="0"  data-saveperformance="off" ><!--  BACKGROUND IMAGE 1--><img src="img/bg_bw2.jpg"  alt="" class="rev-slidebg" 
+							data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-no-retina><div class="tp-caption border-v lft"data-x="['center','center','left','left']" data-hoffset="['0','0','-100','-100']" data-y="['center','center','top','top']" data-voffset="['0','0','0','0']" data-speed="100" data-start="400" data-easing="easeInOutCubic" data-endspeed="300"></div><div class="tp-caption tp-resizeme sfb skewtobottom" data-x="['center','center','center','center']" data-hoffset="['360','310','0','0']" data-y="['top','top','top','top']" data-voffset="['120','110','30','40']" data-speed="500" data-start="1000" data-easing="Power3.easeIn" data-endeasing="Power1.easeOut"  > <img alt="" src="images/logo/btosch_for_web.jpg" width="650" height="414" data-ww="['650','600','450','350']" data-hh="['414','380','286','222']" data-no-retina> </div></li><li data-transition="fade" data-slotamount="10"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-rotate="0"  data-saveperformance="off" ><!--  BACKGROUND IMAGE 1--><img src="img/bg_bw2.jpg"  alt="" class="rev-slidebg" 
+							data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-no-retina><div class="tp-caption border-v lft"data-x="['center','center','left','left']" data-hoffset="['0','0','-100','-100']" data-y="['center','center','top','top']" data-voffset="['0','0','0','0']" data-speed="100" data-start="400" data-easing="easeInOutCubic" data-endspeed="300"></div><div class="tp-caption tp-resizeme sfb skewtobottom" data-x="['center','center','center','center']" data-hoffset="['360','310','0','0']" data-y="['top','top','top','top']" data-voffset="['120','110','30','40']" data-speed="500" data-start="1000" data-easing="Power3.easeIn" data-endeasing="Power1.easeOut"  > <img alt="" src="images/logo/Prayer_on_the_street_-_Made_with_PosterMyWall.jpg" width="650" height="414" data-ww="['650','600','450','350']" data-hh="['414','380','286','222']" data-no-retina> </div></li><li data-transition="fade" data-slotamount="10"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-rotate="0"  data-saveperformance="off" ><!--  BACKGROUND IMAGE 1--><img src="img/bg_bw2.jpg"  alt="" class="rev-slidebg" 
+							data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-no-retina><div class="tp-caption border-v lft"data-x="['center','center','left','left']" data-hoffset="['0','0','-100','-100']" data-y="['center','center','top','top']" data-voffset="['0','0','0','0']" data-speed="100" data-start="400" data-easing="easeInOutCubic" data-endspeed="300"></div><div class="tp-caption tp-resizeme sfb skewtobottom" data-x="['center','center','center','center']" data-hoffset="['360','310','0','0']" data-y="['top','top','top','top']" data-voffset="['120','110','30','40']" data-speed="500" data-start="1000" data-easing="Power3.easeIn" data-endeasing="Power1.easeOut"  > <img alt="" src="images/logo/SSZoom_Fellowship_-_Made_with_PosterMyWall.jpg" width="650" height="414" data-ww="['650','600','450','350']" data-hh="['414','380','286','222']" data-no-retina> </div></li>                        
+                  </ul>
+                </div>
+            </div>
+            <!-- revolution slider close -->
+        </div>
+        <!-- slider close -->
+
+        <div class="clearfix"></div>
+
+        <!-- content begin -->
+        <div id="content" class="no-padding">
+
+            <!-- section begin -->
+            <section id="page-events" class="no-padding">
+                <div class="fullwidth">
+                    <div class="one-fourth text-center">
+                        <div class="title-area wow slideInLeft">
+                            <span>News &amp; Upcoming</span>
+                            <h1>Events</h1>
+							<span style="font-size: 80%;">swipe to scroll items</span>
+                        </div>
+                    </div>
+
+                    <div class="three-fourth">
+                        <div class="fx custom-carousel-1">
+                         
+
+                        </div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+
+            </section>
+            <!-- section close -->
+
+            <!-- section begin -->
+            <section id="countdown-container" data-speed="5" data-type="background">
+                <div class="fullwidth">
+                    <div class="row call4" style="width: 100%">
+                        <div class="col-lg-3 wow fadeInLeft" style="padding-left: 50px; padding-right: 50px;">
+                            <a href="services.php"><h3>Service Times <span class="call4c"> >More</span></h3></a>
+                            <div class="time clearfix">SUNDAY:<br>  Worship <span style="float:right;">9:30 am</span></div>
+							<div class="time clearfix">  Hour of Empowerment <span style="float:right;">Via Zoom</span></div>
+                            <div class="time clearfix">WEDNESDAY:<br>  Bible Study <span style="float:right;">6:30 pm Via Zoom</span></div>
+						</div><br class="clearfix">
+
+                       <div class="col-lg-9"><center>
+							<div class="row">
+								<div class="col-lg-4 col-md-4 wow fadeInLeft" data-wow-delay=".25s">
+									<div class="intro_hedding align_row_center_left">
+										<h1 style="font-size: 24px;"><a href="contact.php" class="ren4"><i class="fa fa-2x fa-fire"></i><br><br>Prayer Request</a></h1>
+									</div>
+								</div>
+
+								<!--intro-box-2-->
+								<div class="col-lg-4 col-md-4 wow fadeInRight" data-wow-delay=".25s">
+									<div class="intro_hedding align_row_center_left">
+										<h1 style="font-size: 24px;"><a href="https://livestream.com/bwbc" class="ren4" target="new"><i class="fa fa-2x fa-video-camera"></i><br><br>Live Stream</a></h1>
+									</div>
+								</div>
+
+								<!--intro-box-3-->
+								<div class="col-lg-4 col-md-4 wow fadeInRight" data-wow-delay=".25s">
+									<div class="intro_hedding align_row_center_left">
+										<h1 style="font-size: 24px;"><a href="contributions.php" class="ren4"><i class="fa fa-2x fa-gift"></i><br><br>Online Giving</a></h1>
+									</div>
+								</div>
+								
+								<!--/col-->
+							</div>
+                       </div><!-- end col9 -->
+                       
+                    </div><!-- end row -->
+                </div>
+            </section>
+            <!-- section close -->
+
+ 					<!-- section begin -->
+            <section id="section-text-2" class="no-padding-bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 wow fadeInLeft" data-wow-delay=".5s">
+                            <h1><strong>Welcome to Bible Way</strong></h1>
+                            <p style="line-height: 20px;">Hi, I am Dr. Damone B. Jones, Senior Pastor of the Bible Way Baptist Church located in the heart of West Philadelphia, PA. I want to invite you to come by and check out the Bible Way Baptist Church. Our purpose is, "Preparing disciples to make an impact for the Kingdom of God Everywhere." If you want to have a closer relationship with the Lord, if you want worship experiences that are vibrant, energetic, and passionate, if you want Bible study classes that take you right into the heart of God's word verse by verse exposition then Bible Way is probably the place for you!
+							</p>
+
+                            <p style="line-height: 20px;">We invite you to visit Sunday mornings during one of our worship services at  7:15 am or  11:00 am. We also hold Wednesday Bible study at 10:30 am and 6:30 pm. We are hoping you will visit and worship with us. We are located at 1323 N. 52nd St. in the heart of West Philadelphia, PA.	
+                          </p>
+
+                            <p class="wow fadeIn" data-wow-delay='1.5s'>
+                                <img src="img/misc/pic-5-dj.png" alt="">
+                            </p>
+
+                        </div>
+
+                        <div class="col-md-6 wow fadeInUp">
+							<a href="bio_pastor.php" title="Pastor Jones Bio"><img src="img/misc/Pastor Jones.png" class="img-responsive" alt="Pastor Jones"></a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- section close -->
+ 						
+            <!-- section begin -->
+            <section id="section-testimonial">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                            <div id="testi-carousel" class="testi-slider text-center wow fadeInUp">
+								<div class="item">
+                                    
+                                    <blockquote>
+                                        Pastor Jones is someone who is not just concerned with church attendance but he is concerned with personal and spiritual growth."
+                                    </blockquote>
+                                    <span class="testi-by">Brian Marshall Jr.</span>
+                                </div>
+                                <div class="item">
+                                    
+                                    <blockquote>Pastor Jones never ever disappoints with bringing the Word of God.</blockquote>
+                                    <span class="testi-by">Pam Superville</span>
+                                </div>
+								<div class="item">
+                                    
+                                    <blockquote>
+                                        Pastor Jones has taught me a lot, both inside and outside the church. The Jones family has helped to grow into the young man I am today. 
+                                    </blockquote>
+                                    <span class="testi-by">Isaiah Hutson</span>
+                                </div>
+                                <div class="item">
+                                    
+                                    <blockquote>My Grandmother bought me to Bible Way as a child. Being at Bible Way saved my life. I have always found a home at Bible Way and it will always be home and my family.</blockquote>
+                                    <span class="testi-by">Lisa Gore</span>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- section close -->
+
+        </div>
+        <!-- footer begin -->
+        <footer>
+			            <div class="container">
+                <div class="row" style="font-size: 14px;">
+                    <div class="col-md-8">                    Bible Way Baptist Church&nbsp; &#8226; 1323 N 52nd St, Philadelphia, PA 19131 &#8226;  &nbsp;(215) 477-0778<br>&copy; Copyright 2018-21  &#8226;  All rights reserved. &nbsp;| &nbsp; <a href="http://systemsavvy.com" target="new" title="System Savvy, Inc." style="font-color: #eebbee !important;"> Website developed & maintained by System Savvy, Inc.</a></div>
+                    <div class="col-md-4">
+                        <nav>
+                            <ul>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="about_us.php">About Us</a></li>
+                                <li><a href="news.php">News</a></li>
+                                <li><a href="https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=wWsk24ZWJSTZKsGd1RMKlg0BDvsSG3VIWQCPJNNxD8upkiY7JlDavDsozUE7KG0nFx2NSo8LdUKGuGuF396vbTj0O-mNrwjM8AQzRJu-69aXHubq5Z7ap5JVmPErc4ZeYHCKCZhESjGNQmZ5B-6dxwkPR8neWd2pKy4SvVOOrOs=&ver=3" target="new">Giving</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>        </footer>
+        <!-- footer close -->
+    </div>
+
+    <!-- LOAD JS FILES -->
+    
+	<!-- jQuery library -->
+    <script src="js/jquery.min.js"></script>		
+	<script src="js/bootstrap.min.js"></script>	
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/easing.js"></script>
+    <script src="js/jquery.ui.totop.js"></script>
+    <script src="js/selectnav.js"></script>
+    <script src="js/ender.js"></script>
+    <script src="js/responsiveslides.min.js"></script>
+    <script src="js/owl.carousel.js"></script>
+    <script src="js/jquery.fitvids.js"></script>
+    <script src="js/jquery.plugin.js"></script>
+    <script src="js/jquery.countdown.js"></script>
+    <script src="js/countdown-custom.js"></script>
+    <script src="js/wow.min.js"></script>	
+    <script src="js/custom.js"></script>
+
+    <!-- SLIDER REVOLUTION SCRIPTS  -->
+	<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+	<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+
+	<script type="text/javascript" src="rs-plugin/js/extensions/revolution.extension.video.min.js"></script>
+	<script type="text/javascript" src="rs-plugin/js/extensions/revolution.extension.slideanims.min.js"></script>
+	<script type="text/javascript" src="rs-plugin/js/extensions/revolution.extension.actions.min.js"></script>
+	<script type="text/javascript" src="rs-plugin/js/extensions/revolution.extension.layeranimation.min.js"></script>
+	<script type="text/javascript" src="rs-plugin/js/extensions/revolution.extension.kenburn.min.js"></script>
+	<script type="text/javascript" src="rs-plugin/js/extensions/revolution.extension.navigation.min.js"></script>
+	<script type="text/javascript" src="rs-plugin/js/extensions/revolution.extension.migration.min.js"></script>
+	<script type="text/javascript" src="rs-plugin/js/extensions/revolution.extension.parallax.min.js"></script>
+	
+	<script type="text/javascript">
+	function revslider_showDoubleJqueryError(sliderID) {
+		var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+		errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+		errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option: <strong><b>Put JS Includes To Body</b></strong> option to true.";
+		errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+		errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>"
+		jQuery(sliderID).show().html(errorMessage);
+	}
+
+	var tpj = jQuery;
+	var revapi1;
+	tpj(document).ready(function() {
+		if (tpj("#revolution-slider").revolution == undefined) {
+			revslider_showDoubleJqueryError("#revolution-slider");
+		} else {
+			revapi1 = tpj("#revolution-slider").show().revolution({
+				sliderType: "standard",
+				sliderLayout: "fullscreen",
+				dottedOverlay: "none",
+				delay: 5000,
+				navigation: {
+					keyboardNavigation: "off",
+					keyboard_direction: "horizontal",
+					mouseScrollNavigation: "off",
+					onHoverStop: "on",
+					touch: {
+						touchenabled: "on",
+						swipe_threshold: 75,
+						swipe_min_touches: 1,
+						swipe_direction: "horizontal",
+						drag_block_vertical: false
+					},
+					arrows: {
+						style: "hesperiden",
+						enable: true,
+						hide_onmobile: false,
+						hide_onleave: true,
+						tmp: '',
+						left: {
+							h_align: "left",
+							v_align: "center",
+							h_offset: 20,
+							v_offset: 0
+						},
+						right: {
+							h_align: "right",
+							v_align: "center",
+							h_offset: 20,
+							v_offset: 0
+						}
+					}
+				},
+				nextSlideOnWindowFocus : "off",
+				responsiveLevels: [1240, 1024, 778, 480],
+				gridwidth: [1860, 1240, 778, 480],
+				gridheight: [800, 800, 400, 400],
+				lazyType: "smart",
+				parallax: {
+					type: "mouse",
+					origo: "slidercenter",
+					speed: 2000,
+					levels: [2, 3, 4, 5, 6, 7, 12, 16, 10, 50],
+				},
+				shadow: 0,
+				spinner: "off",
+				autoHeight: "on",
+				disableProgressBar: "on",
+				hideThumbsOnMobile: "on",
+				hideSliderAtLimit: 0,
+				hideCaptionAtLimit: 0,
+				hideAllCaptionAtLilmit: 0,
+				debugMode: false,
+				fallbacks: {
+					simplifyAll: "off",
+					disableFocusListener: false
+				}
+			});
+		}
+	});
+	/*]]>*/
+</script>
+
+</body>
+</html>
